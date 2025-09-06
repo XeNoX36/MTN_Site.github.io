@@ -14,7 +14,7 @@ st.markdown('<style>div.block-container{padding-top:1.8rem;}</style>', unsafe_al
 
 @st.cache_data
 def read_data():
-    data = pd.read_csv(r"c:\Users\USER\Documents\CODES\MTN\new_mtn.csv")
+    data = pd.read_csv(r"new_mtn.csv")
     return data
 
 
@@ -390,4 +390,5 @@ with tab3:
                       xaxis=dict(tickfont=dict(color="white"), title=dict(font=dict(color="white"))),
                       yaxis=dict(tickfont=dict(color="white"), title=dict(font=dict(color="white"))))
     st.plotly_chart(fig, use_container_width=True)
+
 
