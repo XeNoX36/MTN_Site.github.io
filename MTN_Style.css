@@ -16,11 +16,14 @@ div.st-ej.st-bt.st-eg {
     background-color: #c3c3f52a;
 }
 /*Tab-Running icons*/
-[data-testid="stBaseButton-header"],[data-testid="stToolbarActionButtonIcon"], [data-testid="stStatusWidgetRunningIcon"]>svg {
+[data-testid="stBaseButton-header"], [data-testid="stStatusWidgetRunningIcon"]>svg {
     color: white;
     border-color: white;
 }
-
+[data-testid="stToolbarActionButtonIcon"]{
+    color: white;
+    border-color: white;
+}
 /*Body*/
 [data-testid="stMain"] {
     background-color: #111136;
@@ -33,6 +36,9 @@ div.st-ej.st-bt.st-eg {
     background-color: #29295a;
     color: white;
     border-right: solid 1px #c5c5f062;
+}
+[data-testid="stMarkdownContainer"], [data-testid="stMarkdownContainer"]>p {
+    color: white;
 }
 /*Sidebar-Height*/
 [data-testid="stSidebarHeader"] {
@@ -79,3 +85,4 @@ svg.main-svg {
     border-radius: 10px;
 
 }
+
