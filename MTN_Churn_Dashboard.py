@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-with open(r"Streamlit\MTN_Style.css", "r") as f:
+with open(r"MTN_Style.css", "r") as f:
     st.markdown(f"""<style>{f.read()}</style>""", unsafe_allow_html=True)
 
 st.set_page_config(page_title="MTN Customer Churn Analysis",
@@ -390,3 +390,4 @@ with tab3:
                       xaxis=dict(tickfont=dict(color="white"), title=dict(font=dict(color="white"))),
                       yaxis=dict(tickfont=dict(color="white"), title=dict(font=dict(color="white"))))
     st.plotly_chart(fig, use_container_width=True)
+
