@@ -1,0 +1,80 @@
+/*Tabs*/
+[data-testid="stToolbar"] {
+    background-color: #29295a;
+    color: white;
+}
+/*Tab-text hover*/
+div.st-emotion-cache-pp1cl0.e1fxfrsf0>p:hover{
+    color: #ff4b4b;
+}
+/*Tab-text*/
+div.st-emotion-cache-pp1cl0.e1fxfrsf0 {
+    color: white;
+}
+/*Tab-text underline*/
+div.st-ej.st-bt.st-eg {
+    background-color: #c3c3f52a;
+}
+/*Tab-Running icons*/
+[data-testid="stBaseButton-header"], [data-testid="stStatusWidgetRunningIcon"]>svg {
+    color: white;
+    border-color: white;
+}
+
+/*Body*/
+[data-testid="stMain"] {
+    background-color: #111136;
+    color: white;
+}
+
+/*Sidebar*/
+/*Sidebar-Content*/
+[data-testid="stSidebarContent"] {
+    background-color: #29295a;
+    color: white;
+    border-right: solid 1px #c5c5f062;
+}
+/*Sidebar-Height*/
+[data-testid="stSidebarHeader"] {
+    height: 17px;
+}
+/*Sidebar-Header*/
+div.st-emotion-cache-1t3aqlt.e1fxfrsf0>h2 {
+    font-size: 16.7px;
+    text-align: center;
+    color: gold;
+}
+/*Sidebar-Labels*/
+div.st-emotion-cache-dh1n8e.e1fxfrsf0>p, div.st-emotion-cache-1eresbn.e1fxfrsf0>p,
+[data-testid="stSidebarCollapseButton"]>button, [data-testid="stIconMaterial"] {
+    color: white;
+}
+
+/*Metrics*/
+[data-testid="stMetric"] {
+    background-color: #29295a;
+    box-shadow:0px 0px 2.5px#c5c5f0 inset;
+    border: 1px solid #111136;
+    padding: 5px 5px 5px 10px;
+    border-radius: 10px;
+}
+/*Metrics-Label*/
+[data-testid="stMetricLabel"] {
+    color: white;
+}
+/*Metrics-Tooltip icon [data-testid="stTooltip"]>[data-testid="stMarkdownContainer"]>p:hover*/
+div.stTooltipHoverTarget>svg {
+    background-color: white;
+    border-radius: 50px;
+}
+/*Metrics-Value*/
+[data-testid="stMetricValue"] {
+    color: white;
+    font-size: 27px;
+}
+/*Plots*/
+svg.main-svg {
+    box-shadow:0px 0px 2.5px#c5c5f0 inset;
+    border: 1px solid #111136;
+    border-radius: 10px;
+}
