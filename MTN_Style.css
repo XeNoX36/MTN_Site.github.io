@@ -8,7 +8,7 @@ div.st-emotion-cache-pp1cl0.e1fxfrsf0>p:hover{
     color: #ff4b4b;
 }
 /*Tab-text*/
-div.st-emotion-cache-pp1cl0.e1fxfrsf0 {
+div.st-emotion-cache-ne3lcw e1hznt4w0 {
     color: white;
 }
 /*Tab-text underline*/
@@ -16,7 +16,7 @@ div.st-ej.st-bt.st-eg {
     background-color: #c3c3f52a;
 }
 /*Tab-Running icons*/
-[data-testid="stBaseButton-header"], [data-testid="stStatusWidgetRunningIcon"]>svg {
+[data-testid="stBaseButton-header"],[data-testid="stToolbarActionButtonIcon"], [data-testid="stStatusWidgetRunningIcon"]>svg {
     color: white;
     border-color: white;
 }
@@ -45,7 +45,7 @@ div.st-emotion-cache-1t3aqlt.e1fxfrsf0>h2 {
     color: gold;
 }
 /*Sidebar-Labels*/
-div.st-emotion-cache-dh1n8e.e1fxfrsf0>p, div.st-emotion-cache-1eresbn.e1fxfrsf0>p,
+div.st-emotion-cache-tbzp5a e1hznt4w0>p, div.st-emotion-cache-1eresbn.e1fxfrsf0>p, 
 [data-testid="stSidebarCollapseButton"]>button, [data-testid="stIconMaterial"] {
     color: white;
 }
@@ -77,4 +77,5 @@ svg.main-svg {
     box-shadow:0px 0px 2.5px#c5c5f0 inset;
     border: 1px solid #111136;
     border-radius: 10px;
+
 }
