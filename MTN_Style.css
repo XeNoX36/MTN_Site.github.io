@@ -50,6 +50,9 @@ div.st-ej.st-bt.st-eg {
     text-align: center;
     color: gold;
     background-color: #111136;
+    box-shadow:0px 0px 2.5px#c5c5f0 inset;
+    border: 1px solid #29295a;
+    border-radius: 10px;
 }
 /*Sidebar-Labels*/
 div.st-emotion-cache-tbzp5a e1hznt4w0>p, div.st-emotion-cache-1eresbn.e1fxfrsf0>p, 
@@ -86,6 +89,7 @@ svg.main-svg {
     border-radius: 10px;
 
 }
+
 
 
 
