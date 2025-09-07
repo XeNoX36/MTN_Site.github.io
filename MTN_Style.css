@@ -46,7 +46,7 @@ div.st-ej.st-bt.st-eg {
 }
 /*Sidebar-Header*/
 [data-testid="stHeading"]>[data-testid="stMarkdownContainer"]>h2 {
-    font-size: 16.7px;
+    font-size: 17px;
     text-align: center;
     color: gold;
 }
@@ -85,6 +85,7 @@ svg.main-svg {
     border-radius: 10px;
 
 }
+
 
 
 
