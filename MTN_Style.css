@@ -20,7 +20,7 @@ div.st-ej.st-bt.st-eg {
     color: white;
     border-color: white;
 }
-[data-testid="stToolbarActionButtonIcon"]{
+div.st-emotion-cache-1wbqy5l.ekuhni80, [data-testid="stToolbarActionButtonIcon"]{
     color: white;
     border-color: white;
 }
@@ -85,4 +85,5 @@ svg.main-svg {
     border-radius: 10px;
 
 }
+
 
