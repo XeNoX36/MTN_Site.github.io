@@ -1,4 +1,4 @@
-[!]()
+[!](https://github.com/XeNoX36/MTN_Site.github.io/blob/main/dash1.2.png)
 # MTN_Site.github.io
 This app analyzes MTN customer churn in the first quarter of 2025 in Nigeria
 
